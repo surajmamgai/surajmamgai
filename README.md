@@ -38,7 +38,7 @@ Primary interests: Django, Competitive Programming, C++, JavaScript, Blockchain 
     </th>
   </tr>
   <th>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmamgaihide_border=true&theme=blueberry" align="center" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmamgai&hide_border=true&theme=blueberry" align="center" />
   </th>
 </table>
 
