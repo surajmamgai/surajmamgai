@@ -47,14 +47,11 @@ Primary interests: Django, Competitive Programming, C++, JavaScript, Blockchain 
  <table>
   <tr>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajmamgai&theme=radical&hide=QML,CSS" align="center" />
-    </th>
-    <th>
       <img src="https://github-readme-stats.vercel.app/api?username=surajmamgai&show_icons=true&theme=radical&count_private=true&border_radius=8&custom_title=My+Github+Stats" align="center" />
     </th>
-  </tr>
   <th>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmamgai&hide_border=true&theme=blueberry" align="center" />
   </th>
+     </tr>
 </table>
 
