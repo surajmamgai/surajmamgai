@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 ---
 
 
-I am a Software Engineer and Full Stack Dev in a perpetual state of learning new technologies.
+I am a Software Engineer and a Full Stack Dev in a perpetual state of learning new technologies.
 Primary interests: Django, Competitive Programming, C++, JavaScript, Blockchain and all...
+
 
 ## Connect
 ### Linkedin : https://linkedin.com/in/surajmamgai
 ### Codechef : https://www.codechef.com/users/surajmamgai
 ### Codeforces : https://codeforces.com/profile/surajmamgai
-### Leetcode : https://leetcode.com/surajmamgai/
-### GFG : https://auth.geeksforgeeks.org/user/surajmamgai/practice/
 ### Portofolio : https://surajmamgai.github.io/
