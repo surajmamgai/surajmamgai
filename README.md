@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 I am a Software Engineer and Full Stack Dev in a perpetual state of learning new technologies.
 Primary interests: Django, Competitive Programming, C++, JavaScript, Blockchain and all...
 
-
+# Connect
+<h1> Linkedin : </h1> <a href="https://linkedin.com/in/surajmamgai"/>
