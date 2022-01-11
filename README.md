@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there, I am Suraj Mamgai,a pre-final year Computer Science Undergraduate.
+---
+
+
+I am a Software Engineer and Full Stack Dev in a perpetual state of learning new technologies.
+Primary interests: Django, Competitive Programming, C++, JavaScript, Blockchain and all...
+
+
