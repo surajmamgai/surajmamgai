@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I am Suraj Mamgai,a pre-final year Computer Science Undergraduate.
+### Hi there 👋 I am Suraj Mamgai, a pre-final year Computer Science Undergraduate.
 ---
 
 
