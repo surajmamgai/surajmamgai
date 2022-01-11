@@ -36,18 +36,20 @@ Primary interests: Django, Competitive Programming, C++, JavaScript, Blockchain 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
-## Connect:
-### Linkedin : https://linkedin.com/in/surajmamgai
-### Email : notify.suraj@gmail.com
-<br />
-## Profiles:
-### Codechef : https://www.codechef.com/users/surajmamgai
-### Codeforces : https://codeforces.com/profile/surajmamgai
-### Portofolio : https://surajmamgai.github.io/
 <br />
 
-## Stats:
+### Connect:
+#### Linkedin : https://linkedin.com/in/surajmamgai
+#### Email : notify.suraj@gmail.com
+<br />
+<br />
+### Profiles:
+#### Codechef : https://www.codechef.com/users/surajmamgai
+#### Codeforces : https://codeforces.com/profile/surajmamgai
+#### Portofolio : https://surajmamgai.github.io/
+<br />
+<br />
+### Stats:
  <table>
   <tr>
     <th>
