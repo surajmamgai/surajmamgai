@@ -38,14 +38,18 @@ Primary interests: Django, Competitive Programming, C++, JavaScript, Blockchain 
 <br />
 <br />
 
-## Connect
+## Connect:
 ### Linkedin : https://linkedin.com/in/surajmamgai
+## Email : notify.suraj@gmail.com
+
+## Profiles:
 ### Codechef : https://www.codechef.com/users/surajmamgai
 ### Codeforces : https://codeforces.com/profile/surajmamgai
 ### Portofolio : https://surajmamgai.github.io/
 <br />
 <br />
 
+## Stats:
  <table>
   <tr>
     <th>
