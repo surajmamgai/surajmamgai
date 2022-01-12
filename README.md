@@ -56,3 +56,6 @@ Primary interests: Django, Competitive Programming, C++, JavaScript, Blockchain 
      </tr>
 </table>
 
+<br>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=surajmamgai.surajmamgai)
